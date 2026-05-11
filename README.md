@@ -6,7 +6,7 @@ This project is a Cisco Packet Tracer lab that demonstrates the configuration of
 
 
 ### In this setup:
-* R1 acts as the NAT/PAT router
+* R1 acts as the PAT router
 * R2 simulates an outside ISP router
 * PC1 and PC2 are internal hosts using private IPv4 addresses
 * PAT allows multiple inside devices to share R1’s outside interface IP address simultaneously
